@@ -6,10 +6,12 @@ Customer churn is one of the most critical metrics for subscription-based busine
 
 ## Installation
 - Clone the repository
+  
 git clone https://github.com/yourusername/customer-churn-analysis.git
 cd customer-churn-analysis
 
 - Install required packages
+  
 pip install -r requirements.txt
 
 - Usage
